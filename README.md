@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UmeshModamdarulu
-- 👀 I’m interested in Web technology 
+- 👀 I’m interested in Python developer
 - 🌱 I’m currently learning full stack developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me modamumesh@gmail.com
